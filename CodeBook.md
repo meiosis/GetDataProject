@@ -1,7 +1,7 @@
 Code Book for Cousera "Getting Data" Course Project
 ========================================================
 
-This Code Book describes the data file produced by the run_analysis.R script for the Cousera "Getting Data" Course Project. Details of the how the run_analysis.R script works are contained in the accompanying README.md document.
+This Code Book describes the tidy data set produced by the run_analysis.R script for the Cousera "Getting Data" Course Project. Details of the how the run_analysis.R script works are contained in the accompanying README.md document.
 
 Structure of the data file
 --------------------------
@@ -222,3 +222,4 @@ References
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
  3. Background information about the research at 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+ 4. README.md in the current repository, which describes the processing that transforms the raw data into the tidy data set presented here, and how to reproduce it.
